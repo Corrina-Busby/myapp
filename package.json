@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corrina-Busby/myapp.git"
+  },
+  "author": "Corrina Busby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Corrina-Busby/myapp/issues"
+  },
+  "homepage": "https://github.com/Corrina-Busby/myapp#readme"
+}
